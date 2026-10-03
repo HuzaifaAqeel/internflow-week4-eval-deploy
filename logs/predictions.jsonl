@@ -1,0 +1,4 @@
+{"ts": "2026-10-03T21:30:14.602802+00:00", "input": {"Pclass": 1, "Name": "Demo, Mrs. A", "Sex": "female", "Age": 30, "SibSp": 0, "Parch": 0, "Ticket": "D1", "Fare": 120.0, "Cabin": "C1", "Embarked": "S"}, "survived": true, "probability": 0.9731}
+{"ts": "2026-10-03T21:30:14.603113+00:00", "input": {"Pclass": 3, "Name": "Demo, Mr. B", "Sex": "male", "Age": 25, "SibSp": 0, "Parch": 0, "Ticket": "D2", "Fare": 8.0, "Cabin": null, "Embarked": "Q"}, "survived": false, "probability": 0.1446}
+{"ts": "2026-10-03T21:30:25.671076+00:00", "input": {"Pclass": 1, "Name": "Demo, Mrs. A", "Sex": "female", "Age": 30, "SibSp": 0, "Parch": 0, "Ticket": "D1", "Fare": 120.0, "Cabin": "C1", "Embarked": "S"}, "survived": true, "probability": 0.9731}
+{"ts": "2026-10-03T21:30:25.671307+00:00", "input": {"Pclass": 3, "Name": "Demo, Mr. B", "Sex": "male", "Age": 25, "SibSp": 0, "Parch": 0, "Ticket": "D2", "Fare": 8.0, "Cabin": null, "Embarked": "Q"}, "survived": false, "probability": 0.1446}
