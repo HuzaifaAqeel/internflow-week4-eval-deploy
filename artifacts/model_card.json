@@ -1,0 +1,6 @@
+{
+  "model": "logistic_regression",
+  "test_f1": 0.72,
+  "seed": 42,
+  "target": "Survived"
+}
