@@ -1,0 +1,63 @@
+[
+  {
+    "feature": "Age",
+    "psi": 0.455,
+    "z_mean_shift": 0.594,
+    "status": "DRIFT"
+  },
+  {
+    "feature": "Fare",
+    "psi": 1.898,
+    "z_mean_shift": 0.377,
+    "status": "DRIFT"
+  },
+  {
+    "feature": "SibSp",
+    "psi": 0.03,
+    "z_mean_shift": 0.22,
+    "status": "ok"
+  },
+  {
+    "feature": "Parch",
+    "psi": 0.003,
+    "z_mean_shift": 0.02,
+    "status": "ok"
+  },
+  {
+    "feature": "FamilySize",
+    "psi": 0.022,
+    "z_mean_shift": 0.131,
+    "status": "ok"
+  },
+  {
+    "feature": "FarePerPerson",
+    "psi": 1.245,
+    "z_mean_shift": 0.189,
+    "status": "DRIFT"
+  },
+  {
+    "feature": "Pclass",
+    "total_variation": 0.014,
+    "status": "ok"
+  },
+  {
+    "feature": "Sex",
+    "total_variation": 0.032,
+    "status": "ok"
+  },
+  {
+    "feature": "Embarked",
+    "total_variation": 0.034,
+    "status": "ok"
+  },
+  {
+    "feature": "Deck",
+    "total_variation": 0.055,
+    "status": "ok"
+  },
+  {
+    "feature": "Title",
+    "total_variation": 0.054,
+    "status": "ok"
+  }
+]
